@@ -37,11 +37,21 @@ button:hover {
 }
 
 .valid {
-    color: #008000;
+    height: 25px;
+    width: 25px;
+    background-color: #008000;
+    border-radius: 50%;
+    display: inline-flex;
+   
 }
 
 .invalid {
-    color: #ff4500;
+    height: 25px;
+    width: 25px;
+    background-color: #ff4500;
+    border-radius: 50%;
+    display: inline-flex;
+    
 }
 
 .emoji {
